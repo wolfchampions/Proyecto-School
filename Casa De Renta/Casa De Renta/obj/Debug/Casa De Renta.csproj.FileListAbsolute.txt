@@ -1,0 +1,27 @@
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.exe.config
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.exe
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.pdb
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.csprojResolveAssemblyReference.cache
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.Form1.resources
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.FormAddReservacion.resources
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.Properties.Resources.resources
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.csproj.GenerateResource.Cache
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.exe
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.pdb
+c:\users\carlos esquirol\documents\visual studio 2015\Projects\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.FormBuscar.resources
+W:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.exe.config
+W:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.exe
+W:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.pdb
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.exe.config
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.exe
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\bin\Debug\Casa De Renta.pdb
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.csproj.AssemblyReference.cache
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.csproj.SuggestedBindingRedirects.cache
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.Form1.resources
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.FormAddReservacion.resources
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.FormBuscar.resources
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa_De_Renta.Properties.Resources.resources
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.csproj.GenerateResource.cache
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.csproj.CoreCompileInputs.cache
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.exe
+D:\Salva CELULAR\Download\Casa De Renta\Casa De Renta\Casa De Renta\obj\Debug\Casa De Renta.pdb
